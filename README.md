@@ -51,7 +51,7 @@ Conclusion:<br>
 -In the US, butterflies collected from the west were females and the ones collecetd from the east were males.<br>
 
  ## Question 2: The Effect of Location
- **Wing Measurement by Country**
+ **Wing Measurement by Country:**
  ![Rplot10](https://user-images.githubusercontent.com/108307724/207145147-ed81ab58-8d50-4b8b-8bae-81b521b08e39.png)
 
 Purpose: This visual tells about about the width, apex area and anterior spot measurements by country.
@@ -66,7 +66,7 @@ We performed a correlation test to test the correlation between anteririor spot 
 Findning: Corrrelation value of 0.63
 Conclusion: Anterior spot area and WIng lnegth have a moderate positive relationship. This means as Anterior spot increases, so does the apex area.
 ## Question 4:Effect of collection Month
-**on Wing Length :**
+**on Wing Length:**
 ![Rplot](https://user-images.githubusercontent.com/108307724/207148516-be0576c3-2352-43e4-b763-fe13765b021b.png)
 Conclusion: <br>
 -Widest was in August<br>
