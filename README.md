@@ -72,10 +72,18 @@ Conclusion: <br>
 -Widest was in August<br>
 -Shortest was in March<br>
 
-## Question 4: Comparison of Male vs Female by decade for each Wing
+## Question 4: Comparison of Male vs Female by decade for using Average Width and Length
 
+![Rplot12](https://user-images.githubusercontent.com/108307724/207151442-05b4c58a-8b80-4308-b2e6-2c67026f34c0.png)
 
+Conclusion:<br>
+-Females wings are wider than wings of the males<br>
+-Males wings are longer than wings of females<br>
+![Rplot13](https://user-images.githubusercontent.com/108307724/207151525-282a4e9b-f08b-48f5-8845-13e6c955dcef.png)
 
+Conslusion:<br>
+-shortest in 1960<br>
+-Widest in 1940
 
 
 
